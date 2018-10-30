@@ -191,3 +191,12 @@ UFBGA-201_10x10mm_Layout15x15_P0.65mm:
   layout_x: 15
   layout_y: 15
   row_skips: [[], [], [], [], [[5, 12]], [5, 11], [5, 11], [5, 11], [5, 11], [5, 11], [[5, 12]], [], [], [], []]
+Atmel_TFBGA-120_8.0x8.0mm_Layout15x15_P0.5mm:
+  description: "Atmel, Thin Fine Pitch Ball Grid Array, 8x8mm, 120 ball 15x15 grid (http://ww1.microchip.com/downloads/en/DeviceDoc/SAM-D5xE5x-Family-Datasheet-01507B.pdf#page=2095)"
+  pkg_width: 8
+  pkg_height: 8
+  pitch: 0.5
+  pad_diameter: 0.25
+  layout_x: 15
+  layout_y: 15
+  row_skips: [ [], [], [[3, 14]], [[3, 14]], [[3, 14]], [[3, 6], [11, 14]], [[3, 6], [7, 10], [11, 14]], [[3, 6], [7, 10], [11, 14]], [[3, 6], [7, 10], [11, 14]], [[3, 6], [11, 14]], [[3, 14]], [[3, 14]], [[3, 14]], [], [] ]
